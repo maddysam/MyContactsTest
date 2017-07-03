@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <string name="my_contact">My Contacts</string>
+    <string name="dialog_msg">Getting Data From Server</string>
+    <string name="internet_discription">No internet connection, please try again when internet connection is available!</string>
+    <string name="response_error">Something went wrong, please try again!</string>
+    <string name="ok">ok</string>
+    <string name="internet_title">Alert!</string>
+    <string name="refresh">refresh</string>
+</resources>
